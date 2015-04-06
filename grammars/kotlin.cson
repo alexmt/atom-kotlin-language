@@ -212,7 +212,7 @@
             1:
               name: "keyword.other.kotlin"
 
-          end: "(?=<|{|\\(|:)"
+          end: "(?=\\n|;|<|{|\\(|:)"
           patterns: [
             {
               match: "\\b(object)\\b"
