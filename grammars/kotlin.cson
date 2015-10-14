@@ -4,8 +4,6 @@
   fileTypes: [
     "kt"
     "kts"
-    "jetl"
-    "jet"
   ]
   patterns: [
     {
