@@ -3,6 +3,7 @@
   scopeName: "source.Kotlin"
   fileTypes: [
     "kt"
+    "kts"
     "jetl"
     "jet"
   ]
