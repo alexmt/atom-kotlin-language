@@ -1,6 +1,6 @@
 {
   name: "Kotlin"
-  scopeName: "source.Kotlin"
+  scopeName: "source.kotlin"
   fileTypes: [
     "kt"
     "kts"
